@@ -22,4 +22,4 @@ Projeto desenvolvido para praticar desenvolvimento Front-end e compor portfólio
 
 ## Autor
 
-Rennan Rodrigues
+Rennan Rodrigues 
